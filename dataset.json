@@ -4,49 +4,49 @@
         {
             "name": "mandarin orange",
             "quantity": 2,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "kiwi",
             "quantity": 2,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "plums",
             "quantity": 2,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "apple",
             "quantity": 1,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "orange",
             "quantity": 1,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "banana small",
             "quantity": 2,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "banana large",
             "quantity": 1,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "pear",
             "quantity": 1,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         }
     ],
