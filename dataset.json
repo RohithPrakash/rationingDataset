@@ -9,8 +9,8 @@
     "dairy": [
         {
             "name": "milk",
-            "quanitiy": 200,
-            "unit": "ml",
+            "quanitiy": 0.2,
+            "unit": "l",
             "serving": 1
         },
         {
