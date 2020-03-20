@@ -125,5 +125,111 @@
     "snacks": [],
     "beverages": [],
     "oil": [],
-    "spices": []
+    "spices": [
+        {
+            "name": "red chillies",
+            "quantity": 3,
+            "unit": "g",
+            "serving": 1,
+            "variation": 3.05
+        },
+        {
+            "name": "turmeric",
+            "quantity": 0.71,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.51
+        },
+        {
+            "name": "cumin",
+            "quantity": 1.64,
+            "unit": "g",
+            "serving": 1,
+            "variation": 1.59
+        },
+        {
+            "name": "cardamom",
+            "quantity": 0.39,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.54
+        },
+        {
+            "name": "cloves",
+            "quantity": 0.34,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.62
+        },
+        {
+            "name": "mustard",
+            "quantity": 1.07,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.9
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 0.77,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.82
+        },
+        {
+            "name": "black pepper",
+            "quantity": 0.97,
+            "unit": "g",
+            "serving": 1,
+            "variation": 1.05
+        },
+        {
+            "name": "caraway",
+            "quantity": 1.08,
+            "unit": "g",
+            "serving": 1,
+            "variation": 1.01
+        },
+        {
+            "name": "coriander",
+            "quantity": 1.37,
+            "unit": "g",
+            "serving": 1,
+            "variation": 1.6
+        },
+        {
+            "name": "asafoeteida",
+            "quantity": 0.75,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.76
+        },
+        {
+            "name": "fenugreek",
+            "quantity": 0.82,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.96
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 0.14,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.11
+        },
+        {
+            "name": "mace",
+            "quantity": 0.21,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.13
+        },
+        {
+            "name": "carom",
+            "quantity": 0.69,
+            "unit": "g",
+            "serving": 1,
+            "variation": 0.58
+        }
+    ]
 }
