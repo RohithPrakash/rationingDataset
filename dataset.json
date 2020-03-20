@@ -1,7 +1,63 @@
 {
     "vegetables": [],
-    "fruits": [],
-    "grains": [],
+    "fruits": [
+        {
+            "name": "mandarin orange",
+            "quantity": 2,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "kiwi",
+            "quantity": 2,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "plums",
+            "quantity": 2,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "apple",
+            "quantity": 1,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "banana small",
+            "quantity": 2,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "banana large",
+            "quantity": 1,
+            "unit": "count",
+            "serving": 1
+        },
+        {
+            "name": "pear",
+            "quantity": 1,
+            "unit": "count",
+            "serving": 1
+        }
+    ],
+    "grains": [
+        {
+            "name": "rice",
+            "quantity": 90,
+            "unit": "g",
+            "serving": 1
+        }
+    ],
     "beans": [],
     "nuts": [],
     "meat": [],
