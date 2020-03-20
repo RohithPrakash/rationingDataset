@@ -1,0 +1,34 @@
+{
+    "vegetables": [],
+    "fruits": [],
+    "grains": [],
+    "beans": [],
+    "nuts": [],
+    "meat": [],
+    "bakery": [],
+    "dairy": [
+        {
+            "name": "milk",
+            "quanitiy": 200,
+            "unit": "ml",
+            "serving": 1
+        },
+        {
+            "name": "yogurt",
+            "quanitiy": 125,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cheese",
+            "quanitiy": 25,
+            "unit": "g",
+            "serving": 1
+        }
+    ],
+    "pulses": [],
+    "snacks": [],
+    "beverages": [],
+    "oil": [],
+    "masala": []
+}
