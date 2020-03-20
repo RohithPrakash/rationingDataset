@@ -52,7 +52,7 @@
         {
             "name": "grape fruit",
             "quantity": 0.5,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
@@ -70,25 +70,25 @@
         {
             "name": "mango",
             "quantity": 1,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "strawberry",
             "quantity": 6,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "raspberry",
             "quantity": 16,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         },
         {
             "name": "fig",
             "quantity": 2,
-            "unit": "count",
+            "unit": "whole",
             "serving": 1
         }
     ],
