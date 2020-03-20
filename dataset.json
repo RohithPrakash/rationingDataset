@@ -1,5 +1,78 @@
 {
-    "vegetables": [],
+    "vegetables": [
+        {
+            "name": "spinach",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "lettuce",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "pumkin",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "carrots",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cauliflower",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "brussel sprouts",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cabbage",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "brocolli,",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cucumber",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "tomato",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "potato",
+            "quantity": 150,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "sweet potato",
+            "quantity": 150,
+            "unit": "g",
+            "serving": 1
+        }
+    ],
     "fruits": [
         {
             "name": "mandarin orange",
@@ -98,10 +171,211 @@
             "quantity": 90,
             "unit": "g",
             "serving": 1
+        },
+        {
+            "name": "rolled oats",
+            "quantity": 35,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "muesli",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "breakfast cereal",
+            "quantity": 30,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "kidney beans",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "dry beans",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "faba beans",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "moong beans",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "chickpeas",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        }, 
+        {
+            "name": "peas",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cow peas",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "pigeon peas",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "split pigeon peas (toor dal)",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "split chickpeas (chana dal)",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "red lentils (masoor dal)",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "black lentils (urad dal)",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "small yellow lentils (moong dal)",
+            "quantity": 55,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "almond",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "cashew",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "walnut",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "pistachio",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "peanut",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "pecan",
+            "quantity": 40,
+            "unit": "g",
+            "serving": 1
         }
     ],
-    "meat": [],
-    "bakery": [],
+    "meat": [
+        {
+            "name": "chicken",
+            "quantity": 75,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "mutton",
+            "quantity": 60,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "beef",
+            "quantity": 60,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "pork",
+            "quantity": 60,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "fish",
+            "quantity": 100,
+            "unit": "g",
+            "serving": 1
+        },
+        {
+            "name": "eggs",
+            "quantity": 2,
+            "unit": "whole",
+            "serving": 1
+        }
+    ],
+    "bakery": [
+        {
+            "name": "wholemeal bread",
+            "quantity": 2,
+            "unit": "slice",
+            "serving": 1
+        },
+        {
+            "name": "white bread",
+            "quantity": 2,
+            "unit": "slice",
+            "serving": 1
+        },
+        {
+            "name": "brown bread",
+            "quantity": 2,
+            "unit": "slice",
+            "serving": 1
+        },
+        {
+            "name": "pita bread",
+            "quantity": 1,
+            "unit": "whole",
+            "serving": 1
+        },
+        {
+            "name": "tortilla bread",
+            "quantity": 1,
+            "unit": "whole",
+            "serving": 1
+        }
+
+    ],
     "dairy": [
         {
             "name": "milk",
