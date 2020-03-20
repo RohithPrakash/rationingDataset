@@ -50,7 +50,7 @@
             "serving": 1
         }
     ],
-    "grains": [
+    "foodgrains": [
         {
             "name": "rice",
             "quantity": 90,
@@ -58,8 +58,6 @@
             "serving": 1
         }
     ],
-    "beans": [],
-    "nuts": [],
     "meat": [],
     "bakery": [],
     "dairy": [
@@ -82,9 +80,8 @@
             "serving": 1
         }
     ],
-    "pulses": [],
     "snacks": [],
     "beverages": [],
     "oil": [],
-    "masala": []
+    "spices": []
 }
