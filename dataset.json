@@ -48,6 +48,48 @@
             "quantity": 1,
             "unit": "whole",
             "serving": 1
+        },
+        {
+            "name": "grape fruit",
+            "quantity": 0.5,
+            "unit": "whole",
+            "serving": 1
+        },
+        {
+            "name": "water melon",
+            "quantity": 1,
+            "unit": "slice",
+            "serving": 1
+        },
+        {
+            "name": "pineapple",
+            "quantity": 2,
+            "unit": "slice",
+            "serving": 1
+        },
+        {
+            "name": "mango",
+            "quantity": 1,
+            "unit": "whole",
+            "serving": 1
+        },
+        {
+            "name": "strawberry",
+            "quantity": 6,
+            "unit": "whole",
+            "serving": 1
+        },
+        {
+            "name": "raspberry",
+            "quantity": 16,
+            "unit": "whole",
+            "serving": 1
+        },
+        {
+            "name": "fig",
+            "quantity": 2,
+            "unit": "whole",
+            "serving": 1
         }
     ],
     "foodgrains": [
