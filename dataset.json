@@ -9,19 +9,19 @@
     "dairy": [
         {
             "name": "milk",
-            "quanitiy": 0.2,
+            "quantity": 0.2,
             "unit": "l",
             "serving": 1
         },
         {
             "name": "yogurt",
-            "quanitiy": 125,
+            "quantity": 125,
             "unit": "g",
             "serving": 1
         },
         {
             "name": "cheese",
-            "quanitiy": 25,
+            "quantity": 25,
             "unit": "g",
             "serving": 1
         }
