@@ -7,7 +7,7 @@ Dataset is in JSON.
 
 ## Overview
 
-Datatset contains the following food item categories
+Dataset contains the following food item categories
 
 * vegetables
 * fruits
