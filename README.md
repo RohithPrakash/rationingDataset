@@ -30,7 +30,7 @@ Datatset contains the following food item categories
 }
 ```
 
-* Metric measurement system followed, like
+* Metric measurement system is followed
   * 'Grams' for solid measurements
   * 'Litres' for liquid measurement
 
