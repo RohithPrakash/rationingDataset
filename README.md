@@ -3,6 +3,8 @@ Food item rationing dataset, follows metric measurement system.
 A dataset to help reduce hoarding perishable and non perishable food items during the pandemic.
 Dataset is in JSON.
 
+Used in [Ration Calculator](https://rationcalculator.com/ "Ration Calculator")
+
 **Brain Child** of [SkywalkerZ](https://github.com/SkywalkerZ "aka Abraar Nawaz Shaikh")
 
 ## Overview
